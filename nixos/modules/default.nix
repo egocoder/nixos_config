@@ -1,0 +1,25 @@
+{
+  imports = [
+  ./appimage.nix
+  ./audio.nix
+  ./boot.nix
+  ./docker.nix
+  ./env.nix
+  ./gaming.nix
+  ./hibernate.nix
+  ./home-manager.nix
+  ./hyprland.nix
+  ./kernel.nix
+  ./micromamba
+  ./mime.nix
+  ./mtp.nix
+  ./net.nix
+  ./nh.nix
+  ./nix.nix
+  ./nvidia.nix
+  ./steam.nix
+  ./timezone.nix
+  ./user.nix
+  ./zram.nix
+];
+}
